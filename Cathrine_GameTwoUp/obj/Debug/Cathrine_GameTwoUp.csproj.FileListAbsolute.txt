@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Cathrine_GameTwoUp.exe.config
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Cathrine_GameTwoUp.exe
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Cathrine_GameTwoUp.pdb
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.Form1.resources
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.Properties.Resources.resources
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.exe
+C:\Users\HP\source\repos\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.pdb
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Resources\BackgroundMusic.wav
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Resources\Click.wav
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Resources\Correct.wav
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Resources\Incorrect.wav
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Cathrine_GameTwoUp.exe.config
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Cathrine_GameTwoUp.exe
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\bin\Debug\Cathrine_GameTwoUp.pdb
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csprojAssemblyReference.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Interop.WMPLib.dll
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csproj.ResolveComReference.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.FormGameTwoUp.resources
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.Properties.Resources.resources
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csproj.GenerateResource.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.csproj.CoreCompileInputs.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.exe
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameTwoUp\Cathrine_GameTwoUp\obj\Debug\Cathrine_GameTwoUp.pdb
